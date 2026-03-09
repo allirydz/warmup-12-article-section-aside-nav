@@ -1,0 +1,31 @@
+body {
+    background-color: lightyellow;
+}
+.site-header {
+    background-color: darkseagreen;
+}
+.header-site-nav {
+    background-color: cadetblue;
+}
+.main {
+    background-color: goldenrod;
+    padding: 20px;
+}
+.article {
+    background-color: khaki;
+}
+.about-the-author {
+    background-color: lightgray;
+}
+.related-foods {
+    background-color: lightpink;
+}
+.article-section {
+    background-color: paleturquoise;
+}
+.site-footer {
+    background-color: pink;
+}
+.site-footer-nav {
+    background-color: lightcoral;
+}
